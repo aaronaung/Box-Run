@@ -1,0 +1,84 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Aaron Aung\Unity Projects\ICS161Game3\Game3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 7.289684 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.432893 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 843.
+Total: 0.527802 ms (FindLiveObjects: 0.060444 ms CreateObjectMapping: 0.024098 ms MarkObjects: 0.345284 ms  DeleteObjects: 0.097185 ms)
+
+UnityException: Transform child out of bounds
+  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at CannonScript.OnTriggerEnter2D (UnityEngine.Collider2D player) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Transform child out of bounds
+  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at CannonScript.OnTriggerEnter2D (UnityEngine.Collider2D player) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Transform child out of bounds
+  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at CannonScript.OnTriggerEnter2D (UnityEngine.Collider2D player) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.118420 ms
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 6.609387 ms (FindLiveObjects: 0.051358 ms CreateObjectMapping: 0.033185 ms MarkObjects: 0.303802 ms  DeleteObjects: 6.219461 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.478025 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 844.
+Total: 4.086521 ms (FindLiveObjects: 0.068345 ms CreateObjectMapping: 0.037530 ms MarkObjects: 0.418765 ms  DeleteObjects: 3.560694 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.350322 ms
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 6.644153 ms (FindLiveObjects: 0.054518 ms CreateObjectMapping: 0.033580 ms MarkObjects: 0.297086 ms  DeleteObjects: 6.258177 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.491457 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 844.
+Total: 2.616495 ms (FindLiveObjects: 0.078222 ms CreateObjectMapping: 0.040296 ms MarkObjects: 0.439308 ms  DeleteObjects: 2.057483 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.187556 ms
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 6.036152 ms (FindLiveObjects: 0.030419 ms CreateObjectMapping: 0.020543 ms MarkObjects: 0.274173 ms  DeleteObjects: 5.710226 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3810 -> priority: 1 
