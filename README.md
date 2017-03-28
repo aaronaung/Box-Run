@@ -1,6 +1,5 @@
-# SphereDaCube
-
-<h1>BoxRun - README</h1><br>
+#Box-Run
+<h1>Box-Run - README</h1><br>
 <h2>Game Description</h2><br>
 <p>Box Run is a competitive multiplayer platformer that has the players racing against each other to reach the end first; the one who reaches the end first is the winner, but that is no simple task. There are many obstacles to overcome and it is up to the player to decide their route. Traverse from the underground to the goal line: from platform to platform, wall to wall, gravity to zero-gravity, all while avoiding the other player’s cannons.</p>
 <hr><br>
